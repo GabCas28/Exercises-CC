@@ -1,5 +1,3 @@
-# Ejercicio 2.1 Instalación de la última versión de npm
+# Ejercicio 2.1 Instalación de entorno virtual de Nodela última versión de npm
 
-[Tutorial para actualizar a la última versión de npm](https://docs.npmjs.com/try-the-latest-stable-version-of-npm)
-
-![Actualización de npm](./img/npm-install.png)
+![Instalación de entornos de node](./img/n-version-node-install.png)
